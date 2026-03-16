@@ -1,2 +1,2 @@
-Divya bharti
-1AY22CS217
+This project showcases a modern and user-friendly restaurant menu interface designed with a strong focus on usability, visual hierarchy, and accessibility. The goal was to create an intuitive browsing experience that allows users to quickly explore dishes, view pricing, and make informed choices.
+The design emphasizes clean layouts, readable typography, appealing food imagery, and smooth navigation, making it suitable for both digital menus and restaurant ordering systems.
